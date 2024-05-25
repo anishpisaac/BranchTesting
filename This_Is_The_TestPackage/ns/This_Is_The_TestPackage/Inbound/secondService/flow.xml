@@ -9,7 +9,11 @@
   <COMMENT></COMMENT>
 </MAP>
 
+<<<<<<< HEAD
 <LOOP TIMEOUT="">
+=======
+<LOOP TIMEOUT="" OUT-ARRAY="/test">
+>>>>>>> refs/heads/main
   <COMMENT></COMMENT>
 </LOOP>
 </FLOW>
